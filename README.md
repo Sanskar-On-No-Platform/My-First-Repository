@@ -6,7 +6,7 @@ Hello, Guys! This is my first GitHub Repository page, so if anything feels wrong
 Well, this is just me messing around, so yeah—basically anything, especially related to **Python, Lua, a bit of Node.js, etc.**  
 
 Please **don't put random nonsense** in here.  
-> **This repo is NOT about messing around...**  
+>> **This repo is NOT about messing around...**  
 
 ### Rules & Guidelines:  
 - **Stay optimistic.** If you're stuck, reach out to others!  
