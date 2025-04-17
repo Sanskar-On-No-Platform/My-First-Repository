@@ -3,7 +3,7 @@
 Hello, Guys! This is my first GitHub Repository page, so if anything feels wrong to ya, just contact me!
 
 ## What are we even doing here?  
-Well, this is just me messing around, so yeah—basically anything, especially related to **Python, Lua, a bit of Node.js, etc.**  
+Well, this is just me messing around, so yeah — basically anything, especially related to **Python, Lua, a bit of Node.js, etc.**  
 
 Please **don't put random nonsense** in here.  
 >> **This repo is NOT about messing around...**  
