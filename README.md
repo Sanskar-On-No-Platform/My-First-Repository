@@ -18,14 +18,12 @@ Please **don't put random nonsense** in here.
 ### **LICENSE:**  
 **Registered under the Apache 2.0 License. See `/LICENSE/` for details.**  
 
----
-
-Lmfao, I got too formal there.  
+---  
 
 Just remember:  
 > **Love each other and contribute towards humanity's growth.**  
 
-Lol, that got too serious.  
+lmfao, that got too serious.  
 
 ---
 
@@ -38,6 +36,7 @@ Lol, that got too serious.
 - **Use type annotations** (like `num1: int = 10`)  
 - **Write reusable functions** and structure your code clearly  
 - **Always specify return types** (`def ret_num(*args) -> int:`)  
+idk why did I put this title here, just read it ok? (lmfao)
 
 Please **don’t edit this Markdown** unless you have *really* good suggestions.  
 
