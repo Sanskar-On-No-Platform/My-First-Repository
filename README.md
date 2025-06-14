@@ -20,7 +20,7 @@ or, u can, as idk what we gonna do here
 ---
 
 ### **LICENSE:**  
-**Registered under the Apache 2.0 License. See `./LICENSE/` for details.**  
+**Registered under the Apache 2.0 License. See `./LICENSE` for details.**  
 
 ---  
 
