@@ -27,17 +27,6 @@ lmfao, that got too serious.
 
 ---
 
-# **Python**  
-### Python is an easy language:  
-- **English-like syntax**  
-- Easy to learn, but hard to master (trust me, it's worth it)  
-
-### Best Practices:  
-- **Use type annotations** (like `num1: int = 10`)  
-- **Write reusable functions** and structure your code clearly  
-- **Always specify return types** (`def ret_num(*args) -> int:`)  
-idk why did I put this title here, just read it ok? (lmfao)
-
 Please **don’t edit this Markdown** unless you have *really* good suggestions.  
 
 ---
@@ -47,4 +36,6 @@ I’m usually online from **2100 hrs to 2200 hrs (IST)**, but sometimes I might 
 
 ---
 
-**Pls fix the block quote formatting if it looks dim! Do it *FAST, ASAP*!**
+**Pls fix the block quotes as they be lookin as dim as ur return statement in a void function lmfao**
+
+###### Just pls, do it thenx
